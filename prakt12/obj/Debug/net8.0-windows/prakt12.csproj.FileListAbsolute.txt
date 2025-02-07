@@ -1,0 +1,16 @@
+B:\Новая папка\prakt12\prakt12\bin\Debug\net8.0-windows\prakt12.exe
+B:\Новая папка\prakt12\prakt12\bin\Debug\net8.0-windows\prakt12.deps.json
+B:\Новая папка\prakt12\prakt12\bin\Debug\net8.0-windows\prakt12.runtimeconfig.json
+B:\Новая папка\prakt12\prakt12\bin\Debug\net8.0-windows\prakt12.dll
+B:\Новая папка\prakt12\prakt12\bin\Debug\net8.0-windows\prakt12.pdb
+B:\Новая папка\prakt12\prakt12\obj\Debug\net8.0-windows\prakt12.Form1.resources
+B:\Новая папка\prakt12\prakt12\obj\Debug\net8.0-windows\prakt12.csproj.GenerateResource.cache
+B:\Новая папка\prakt12\prakt12\obj\Debug\net8.0-windows\prakt12.GeneratedMSBuildEditorConfig.editorconfig
+B:\Новая папка\prakt12\prakt12\obj\Debug\net8.0-windows\prakt12.AssemblyInfoInputs.cache
+B:\Новая папка\prakt12\prakt12\obj\Debug\net8.0-windows\prakt12.AssemblyInfo.cs
+B:\Новая папка\prakt12\prakt12\obj\Debug\net8.0-windows\prakt12.csproj.CoreCompileInputs.cache
+B:\Новая папка\prakt12\prakt12\obj\Debug\net8.0-windows\prakt12.dll
+B:\Новая папка\prakt12\prakt12\obj\Debug\net8.0-windows\refint\prakt12.dll
+B:\Новая папка\prakt12\prakt12\obj\Debug\net8.0-windows\prakt12.pdb
+B:\Новая папка\prakt12\prakt12\obj\Debug\net8.0-windows\prakt12.genruntimeconfig.cache
+B:\Новая папка\prakt12\prakt12\obj\Debug\net8.0-windows\ref\prakt12.dll
